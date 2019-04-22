@@ -1,0 +1,4 @@
+---
+ansible_host: 52.143.154.130
+ip: 10.0.0.13
+etcd_member_name: etcd3
